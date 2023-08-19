@@ -139,7 +139,6 @@ public class Main {
                 break;
             default:
                 System.out.println("В году не бывает больше 12 месяцев");
-
               */
         }
 
